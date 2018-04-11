@@ -75,3 +75,108 @@ cd /var/lib/jenkins/workspace/MynewMavenProject/multi-module/server/
 ll
 cd target/
 ll
+cd /var/lib/jenkins/workspace/MynewMavenProject/multi-module/webapp/target/
+ll
+pwd
+cd /var/lib/jenkins/workspace/MynewMavenProject/multi-module/server/target/
+ll
+cd /var/lib/jenkins/workspace/MynewMavenProject/multi-module/server/target/
+ll
+cd /var/lib/jenkins/workspace/MynewMavenProject/multi-module/server/target/
+ll
+cd /var/lib/jenkins/workspace/MynewMavenProject/multi/
+ll
+history
+cd /var/lib/jenkins/workspace/MynewMavenProject/multi-module/server/target/
+ll
+date
+history
+cat /var/lib/jenkins/secrets/initialAdminPassword
+git -version
+man git
+pwd
+ls -lrta
+git init
+  cd /root/.git/
+ll
+cat config
+git status
+cd /
+git status
+cd /root
+cd /root/.git/
+git status
+cd ..
+git status
+pwd
+ll
+ls -lrta
+touch aaa bbb ccc ddd
+echo  " naveen kumar Guntupalli " > aaa
+cp -p aaa bbb
+cp -p bbb > ccc
+cp -p bbb  ccc
+cp -p  ccc ddd
+ll
+cat dd 
+cat ddd 
+echo  " naveen kumar Guntupalli Bandarupallu" >> ddd
+ll
+git status
+git add -Am "firstadd" 
+git add A
+git add -A
+git status
+git commit -m "naveenfiles" 
+git status
+ll
+pwd
+git login
+man got
+man git
+man git-remote
+git-remote add https://github.com/naving1985/naveenlab.git
+man git-remote
+git remote add  https://github.com/naving1985/naveenlab.git
+git remote add  -m https://github.com/naving1985/naveenlab.git
+git remote add -u origin 
+git remote add -u origin https://github.com/naving1985/naveenlab.git
+git remote add  origin https://github.com/naving1985/naveenlab.git
+ll
+git push -u origin master
+pwd
+ll
+echo " Hyderabad " >> aaa
+git push -u origin master aaa
+git log
+cat aaa
+git status
+git commit -m " aaa updated"
+git status
+git commit -a -m " aaa updated"
+git status
+git log
+git push -u origin master 0a592877f14f397e989bcd772b2da0e4e02fb486
+git push -u origin master
+git log
+git config --global user.name "naving1985"
+git config --global user.email "naving1985@msil.com"
+git push -u origin master
+ssh-keygen
+cat .ssh/authorized_keys 
+cd .ssh
+ll
+cat id_rsa.pub
+git push -u origin master
+service git restart
+service sshd restart
+git push -u origin master
+ssh -T git@github.com
+git push -u origin master
+git config --global username "naving1985"
+git config --global user.name "naving1985"
+git push -u origin master
+git remote -v
+git remote set-url origin  https://github.com/naving1985/naveenlab.git
+ git push -u origin master
+man git
